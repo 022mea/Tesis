@@ -1,0 +1,124 @@
+body{
+    /* background-color: rgba(255, 87, 51, .2); */
+}
+
+.img-menu{
+    width: 150px;
+}
+
+.texto{
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+
+h2{
+    text-align: center;
+    color: #404040;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h4{
+    text-align: center;
+    color: #404040;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contenedor{
+    margin: 0 200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.subcontenedor{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.boton{
+    width: 100%;
+    margin-top: 50px;
+}
+
+.crear{
+    margin: 10px 110px;
+}
+
+.crear2{
+    margin: 20px 0 10px -60px;
+}
+
+
+/* Estilos Botones reportes */
+.botones-tabla {
+    margin: 0 auto;
+    text-align: center;
+    /* border: 1px blue solid; */
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.botones-tabla form {
+    /* text-align: center; */
+    margin: 0 auto;
+}
+
+.imprimir {
+    padding-right: 30px;
+}
+
+.botones-tabla img {
+    width: 30px;
+    height: 30px;
+}
+
+.btn-pdf {
+    width: 200px;
+    height: 35px;
+    padding: 18px;
+    /* background: rgb(236, 75, 89); */
+    color: #ffffff;
+    /* font-weight: bold; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.btn-excel {
+    width: 200px;
+    height: 32px;
+    background:  rgb(100, 204, 79);
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.btn-pdf:hover {
+    cursor: pointer;
+    background: rgb(233, 49, 64);
+}
+
+.btn-excel:hover {
+    cursor: pointer;
+    background: rgb(61, 165, 40);
+}
+
+.img-1 {
+    padding-right: 5px;
+    width: 30px;
+}
+
+.botones-tabla-ps {
+    margin-bottom: 50px;
+}

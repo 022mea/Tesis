@@ -1,0 +1,48 @@
+/* ESTILOS CSS A LA VISTA DEL LOGIN */
+
+body{
+    /* background-color: rgba(255, 87, 51, .5); */
+}
+
+.login{
+    /* background-color: blue; */
+    margin-top: 100px;
+}
+
+.container-padre{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.container-datos{
+    border-left: 1px solid #bbb;;
+}
+
+.container{
+    background-color: white;
+    border: 2px #bbb solid ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.container-img{
+    /* background-color: rgb(150, 12, 12); */
+}
+
+.container-copy{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.campos{
+    font-size: 20px;
+    color: #8f8c8c;
+}
+
+h2{
+    color: #8f8c8c;
+}
+
+.img-login{
+    width: 300px;
+}

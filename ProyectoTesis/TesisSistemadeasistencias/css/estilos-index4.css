@@ -1,0 +1,123 @@
+.img-carrusel {
+    /* background-size: contain;
+    max-width: 100%;
+    height: 100vh; */
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+
+.img-carrusel1 {
+    /* background-size: contain;
+    max-width: 100%;
+    height: 100vh; */
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: -100px;
+    left: 0;
+    z-index: -100;
+}
+
+.navegacion {
+    background-color: rgba(255, 87, 51, .5);
+    /* background-color: skyblue; */
+}
+
+nav {
+    font-weight: bold;
+}
+
+
+.boton {
+    background-color: #FF5733;
+    margin: 5px 20px;
+    width: 125px;
+    text-align: center;
+    border: 2px solid #ec360d;
+}
+
+.contenido {
+    background-image: url("../img/escuela2.jpg");
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 85vh;
+}
+
+.principal {
+    /* background-color: #ec360d; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    padding-top: 200px;
+    font-weight: bold;
+}
+
+
+.formulario-contacto {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.acerca {
+    width: 60%;
+    margin: 0 auto;
+
+}
+
+/* ESTILOS DEL LOS CARDS DE EDUCACION */
+
+h2 {
+    text-align: center;
+
+}
+
+.contenedor-texto {
+    display: flex;
+    align-content: center;
+}
+
+
+
+.contenedor-img {
+    text-align: center;
+}
+
+.img1 {
+    width: 40%;
+    margin: 20px;
+}
+
+
+/* fin  */
+
+.seccion-pie {
+    background-color: rgb(218, 218, 218);
+}
+
+
+.login {
+    width: 70%;
+    margin: 0 auto;
+}
+
+/* REGISTER */
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+
+
+/* -------------------------------------------- */
+

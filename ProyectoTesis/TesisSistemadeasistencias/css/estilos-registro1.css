@@ -1,0 +1,54 @@
+
+body{
+    /* background-color: rgba(255, 87, 51, .5); */
+    /* background-color: rgba(101, 22, 230, 0.5); */
+
+}
+
+.container{
+    width: 70%;
+   
+}
+
+.contenedor1{
+    height: 590px;
+    /* border: 1px gray solid; */
+}
+
+.contenedor-imagen{
+     /* background-color: rgba(255, 87, 51, .5); */
+     background-color: rgba(255, 87, 51, .5);
+     text-align: center;
+   
+
+}
+
+.img-portada{
+    margin-top: 100px;
+    width: 90%;
+}
+
+.form-campos{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.input-formulario{
+    padding: 13px;
+    border-radius: 50px;
+}
+
+.registrarse{
+    width: 100%;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.olvidar-clave, .tiene-cuenta{
+    text-decoration: none;
+    
+}
+
+h2{
+    color: #8f8c8c;
+}
